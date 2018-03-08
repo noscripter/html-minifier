@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "change-case": "2.3.x",
-    "clean-css": "3.4.x",
+    "clean-css": "4.1.11",
     "cli": "0.11.x",
     "concat-stream": "1.5.x",
     "relateurl": "0.2.x",
